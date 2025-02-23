@@ -1,4 +1,3 @@
-版本号：V1.0
 【开发的硬件环境】：Ryzen 5 3600；16GB DDR4 3000MHz；GTX 1660 Super
 【运行的硬件环境】：处理器：Xeon Silver 4210；内存：128GB DDR4 REG ECC
 【开发该软件的操作系统】：Windows 10 Pro 64位
